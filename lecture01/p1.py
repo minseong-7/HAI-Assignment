@@ -33,5 +33,5 @@ manager.display_all_students()
 student4 = student(4, "김철수", 20)
 manager.add_student(student4)
 
-print("\n학번 4번 하생 추가 후: ")
+print("\n학번 4번 학생 추가 후: ")
 manager.display_all_students()
